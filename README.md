@@ -10,10 +10,10 @@
 
 - 🌱 I’m currently learning *React Native*
 
-- 👨‍💻 All of my projects are available at [https://shaiksajidhussain.github.io/personal_portfolio/](https://shaiksajidhussain.github.io/personal_portfolio/)
+- 👨‍💻 All of my projects are available at 
 
 
-- 💬 Ask me about **Front End Development, Figma, Java, Spring, **
+<!-- - 💬 Ask me about **Front End Development, Figma, Java, Spring, **
 
 - 📫 How to reach me *sanjusazid0@gmail.com*
 
@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiksajidhussain&show_icons=true&locale=en" alt="shaiksajidhussain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksajidhussain&" alt="shaiksajidhussain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaiksajidhussain&" alt="shaiksajidhussain" /></p> -->
 <!--
 **nikhilesh2010/nikhilesh2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
