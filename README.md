@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning *MERN stack*
 
-- 💬 Ask me about **Front End Development, Figma, Python, Core Java, SQL  **
+- 💬 Ask me about **Front End Development, Figma, Python, Core Java, SQL**
 
 - 📫 How to reach me *nikhilesh.cc@gmail.com*
 
