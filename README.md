@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sanjusazid.netlify.app/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Nikhilesh Vijay</h1>
 <h3 align="center">A passionate frontend developer and Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -40,7 +40,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
     <p align="left"> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> \
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
         </a> 
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
