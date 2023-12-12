@@ -66,7 +66,7 @@
 
 <div>
     <p>
-        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh2010&" alt="nikhilesh2010" />
