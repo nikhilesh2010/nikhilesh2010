@@ -65,7 +65,7 @@
 </div>
 
 <div>
-    <p>
+    <p style="display:in-line">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
     </p>
     <p>
