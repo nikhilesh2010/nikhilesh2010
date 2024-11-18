@@ -65,9 +65,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
     </div>
     <div style="text-align: center;">
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=nikhilesh2010)](https://git.io/streak-stats)
-    </div>
-    <div style="text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilesh2010&show_icons=true&locale=en&layout=compact" alt="nikhilesh2010" />
     </div>
 </div>
