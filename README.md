@@ -60,16 +60,16 @@
     </p>
 </div>
 
-<div>
-    <p style="display:in-line">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
-    </p>
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh2010&" alt="nikhilesh2010" />
-    </p>
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilesh2010&show_icons=true&locale=en&layout=compact" alt="nikhilesh2010" />
-    </p>
+<div style="display: flex; gap: 16px;">
+    <div style="text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilesh2010&" alt="nikhilesh2010" />
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilesh2010&show_icons=true&locale=en&layout=compact" alt="nikhilesh2010" />
+    </div>
 </div>
 
 <!--
