@@ -54,7 +54,7 @@
     </p>
 </div>
 
-<div style="display: flex; gap: 16px;">
+<!-- <div style="display: flex; gap: 16px;">
     <div style="text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=nikhilesh2010&show_icons=true&locale=en" alt="nikhilesh2010" />
     </div>
@@ -64,7 +64,7 @@
     <div style="text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilesh2010&show_icons=true&locale=en&layout=compact" alt="nikhilesh2010" />
     </div>
-</div>
+</div> -->
 
 <!--
 **nikhilesh2010/nikhilesh2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
