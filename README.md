@@ -8,12 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=nikhilesh2010&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilesh2010" /> 
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-    </a> 
-</p>
-
 - 🌱 I’m currently learning *MERN stack & Figma*
 
 - 💬 Ask me about **Front End Development, Python, Core Java, SQL**
