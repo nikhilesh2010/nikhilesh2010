@@ -63,7 +63,7 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| **[JS Studio]([https://jsstudio.space)** | Next.js, GitHub API | Real-time JS playground with snippet sharing & GitHub as DB |
+| **[JS Studio](https://jsstudio.space)** | Next.js, GitHub API | Real-time JS playground with snippet sharing & GitHub as DB |
 | **[AnyScrum](http://anyscrum.vercel.app/)** | Next.js, Neon DB, Prisma, Clerk | Full Scrum PM tool with sprint planning & team collaboration |
 | **AI Bull** | FastAPI, Jinja2, Python | AI trading platform with back-testing engine & stock screener |
 | **CRM.io** | FastAPI, Python, Twilio, ACL | AI-driven CRM with telephony, contacts, tasks & docs modules |
