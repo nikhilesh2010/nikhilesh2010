@@ -14,6 +14,7 @@
 - 🔐 Experienced with **RBAC/ACL security**, performance optimization & clean architecture
 - ☁️ Deployments on **Vercel & AWS** with **GitHub Actions** CI/CD pipelines
 - 🌐 Portfolio: [nikhileshc.vercel.app](https://nikhileshc.vercel.app)
+- 📜 Resume: https://nikhileshc.vercel.app/Nikhilesh_Vijay_Chirutala_Software_Engineer.pdf
 - 📫 Reach me at: **nikhilesh.chirutala@gmail.com**
 
 ---
