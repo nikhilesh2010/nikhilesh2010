@@ -13,8 +13,8 @@
 - 🚀 Shipped features across **4 production products** in Agile/Scrum teams
 - 🔐 Experienced with **RBAC/ACL security**, performance optimization & clean architecture
 - ☁️ Deployments on **Vercel & AWS** with **GitHub Actions** CI/CD pipelines
-- 🌐 Portfolio: [nikhileshc.vercel.app](https://nikhileshc.vercel.app)
 - 📫 Reach me at: nikhilesh.chirutala@gmail.com
+- 🌐 Portfolio: [nikhileshc.vercel.app](https://nikhileshc.vercel.app)
 - 📜 Resume: [Software Engineer](https://nikhileshc.vercel.app/Nikhilesh_Vijay_Chirutala_Software_Engineer.pdf)
 
 ---
